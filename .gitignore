@@ -1,4 +1,11 @@
 .ipynb_checkpoints
+avg_order.png
+distribution_totals.png
+growth_seller_base.png
+net_month.png
+non_repeat_summary.png
+O-List Ecommerce Data - Report of Findings.pdf
+O-LIst Ecommerce EDA.pdf
 O-List ERD.png
 O-List Funnel ERD.png
 olist_closed_deals_dataset.csv
@@ -12,3 +19,12 @@ olist_orders_dataset.csv
 olist_products_dataset.csv
 olist_sellers_dataset.csv
 product_category_name_translation.csv
+repeat_summary.png
+rev_per_deal.png
+sales_by_category.png
+sales_growth.png
+sales_sku_growth.png
+sellers_onboarded.png
+time_intervals.png
+time_to_sales.png
+top_10_cats_percent.png
